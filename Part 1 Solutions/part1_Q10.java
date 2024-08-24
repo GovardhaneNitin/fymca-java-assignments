@@ -1,8 +1,6 @@
 // Write a Java program to swap the first and last elements of an array and create a 
 // new array
 
-import java.util.*;
-
 public class part1_Q10 {
     public static void main(String args[]) {
         int arr[] = {1, 2, 3, 4, 5};
