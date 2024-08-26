@@ -44,8 +44,7 @@ Feel free to contribute by opening issues for any suggestions or improvements. I
 
 ## Connect with Me 🌐
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nitingovardhane/)
-- GitHub: [Your GitHub Profile](https://github.com/GovardhaneNitin)
-- Email: nitingovardhane000@gmail.com
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nitingovardhane/)
+- GitHub: [GitHub Profile](https://github.com/GovardhaneNitin)
 
 Happy coding! 💻🚀
