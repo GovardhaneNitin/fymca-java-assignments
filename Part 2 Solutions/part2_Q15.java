@@ -1,5 +1,11 @@
 // Write a program to calculate Simple Interest To be Paid based on given schedule.
 
+// | Principal      | Period of Deposit | Interest Rate |
+// |----------------|-------------------|---------------|
+// | ≤ 10000        | ≤ 2 years         | 9%            |
+// | ≤ 10000        | ≥ 2 years         | 10%           |
+// | > 10000        | --                | 11%           |
+
 import java.util.*;
 
 public class part2_Q15 {
