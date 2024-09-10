@@ -59,6 +59,7 @@ class PermanentEmployee extends Employee {
     }
 }
 
+//main
 public class part2_Q23 {
     public static void main(String[] args) {
         TemporaryEmployee tempEmp = new TemporaryEmployee("Jitesh Borse", 42, 160, 20);
