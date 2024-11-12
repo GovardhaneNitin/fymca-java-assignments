@@ -1,8 +1,8 @@
 # Java Assignment Solutions for FY-MCA Science 📚
 
-Welcome to the repository for my Java assignment solutions for FY-MCA Science! This repository contains solutions for the Java assignments divided into two parts:
+Welcome to the repository for my Java assignment solutions for FY-MCA Science! This repository contains solutions for the Java Assignments.
 
-## Assignment Parts 📝
+## Assignment No 1 📝
 
 ### Part I - Basic Programs
 
@@ -11,6 +11,10 @@ Welcome to the repository for my Java assignment solutions for FY-MCA Science! T
 ### Part II - Simple Application Base Program
 
 - Java programs focused on building simple applications, demonstrating practical usage of Java concepts.
+
+### Assignment No 2 - Coming Soon 🚧
+
+Stay tuned for the next set of assignments, which will be added here soon.
 
 ## Getting Started 🚀
 
@@ -28,15 +32,11 @@ Welcome to the repository for my Java assignment solutions for FY-MCA Science! T
 
 3. **Explore the folders:**
 
+   - `Assignment-1/` - Contains the first set of assignment solutions.
    - `Part-I-Basic-Programs/` - Contains solutions for basic programming exercises.
    - `Part-II-Simple-Application/` - Contains solutions for application base programs.
 
 4. **Open the Java files** to view or run the solutions.
-
-## Structure 📁
-
-- **Part-I-Basic-Programs/**: Includes basic Java programs such as loops, arrays, and basic algorithms.
-- **Part-II-Simple-Application/**: Contains code for simple applications like basic CRUD operations, user interfaces, and more.
 
 ## Contributing 🤝
 
