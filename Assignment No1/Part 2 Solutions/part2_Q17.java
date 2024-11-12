@@ -4,6 +4,7 @@ import java.util.*;
 
 abstract class Employee {
     abstract void acceptDetails();
+
     abstract void displayDetails();
 }
 
@@ -12,7 +13,6 @@ class Manager extends Employee {
     private String mname;
     private String phno;
 
-    
     void acceptDetails() {
         Scanner sn = new Scanner(System.in);
         System.out.print("Enter Manager ID: ");
@@ -24,7 +24,6 @@ class Manager extends Employee {
         phno = sn.nextLine();
     }
 
-    
     void displayDetails() {
         System.out.println("Manager ID: " + mid);
         System.out.println("Manager Name: " + mname);
@@ -36,7 +35,6 @@ class Worker extends Employee {
     private String name;
     private int workingHours;
 
-    
     void acceptDetails() {
         Scanner sn = new Scanner(System.in);
         System.out.print("Enter Worker Name: ");
@@ -45,7 +43,6 @@ class Worker extends Employee {
         workingHours = sn.nextInt();
     }
 
-    
     void displayDetails() {
         System.out.println("Worker Name: " + name);
         System.out.println("Working Hours: " + workingHours);
