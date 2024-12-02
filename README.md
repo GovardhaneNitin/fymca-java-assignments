@@ -12,7 +12,11 @@ Welcome to the repository for my Java assignment solutions for FY-MCA Science! T
 
 - Java programs focused on building simple applications, demonstrating practical usage of Java concepts.
 
-### Assignment No 2 - Coming Soon 🚧
+## Assignment No 2 - Exception Handling ✅
+
+- Completed assignments covering OOP concepts in Java including classes, objects, inheritance, and polymorphism.
+
+### Assignment No 3 & 4 - Coming Soon 🚧
 
 Stay tuned for the next set of assignments, which will be added here soon.
 
@@ -35,6 +39,7 @@ Stay tuned for the next set of assignments, which will be added here soon.
    - `Assignment-1/` - Contains the first set of assignment solutions.
    - `Part-I-Basic-Programs/` - Contains solutions for basic programming exercises.
    - `Part-II-Simple-Application/` - Contains solutions for application base programs.
+   - `Assignment-2/` - Contains Exception Handling solutions.
 
 4. **Open the Java files** to view or run the solutions.
 
